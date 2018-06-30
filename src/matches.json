@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "./asset/barium.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./asset/carbon.JPG",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./asset/iron-periodic-table.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./asset/oxygen-o-element-8.png",
+        "clicked": false
+    }
+]
